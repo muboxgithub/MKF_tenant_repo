@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         TEST SCRIPT → khalid-mkfstock.com (Auto-Update from GitHub)
-// @version      2025.12.25
+// @version      2025.12.27
 // @description  Test script – shows big green message on your site
 // @match        https://khalid-mkfstock.com/*
 // @updateURL    https://cdn.jsdelivr.net/gh/muboxgithub/MKF_tenant_repo@main/test_khalid_site.user.js
@@ -49,7 +49,7 @@
     "color:#00ff00;font-size:16px"
   );
   console.log("Repo: https://github.com/muboxgithub/MKF_tenant_repo.git");
-  alert("swithc off the buy!");
+  alert("swithc off the buy one click active!");
   // Auto-remove after 10 seconds
   setTimeout(() => banner.remove(), 10000);
 })();
