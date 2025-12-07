@@ -48,9 +48,7 @@
     "%c Auto-update from GitHub is ACTIVE",
     "color:#00ff00;font-size:16px"
   );
-  console.log(
-    "Repo: https://github.com/ecxTrader2025/ahmed_ecx_private_scripts"
-  );
+  console.log("Repo: https://github.com/muboxgithub/MKF_tenant_repo.git");
   alert("swithc off the buy!");
   // Auto-remove after 10 seconds
   setTimeout(() => banner.remove(), 10000);
