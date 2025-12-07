@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         TEST SCRIPT → khalid-mkfstock.com (Auto-Update from GitHub)
-// @version      2025.12.28
+// @version      2025.12.29
 // @description  Test script – shows big green message on your site
 // @match        https://khalid-mkfstock.com/*
 // @updateURL    https://cdn.jsdelivr.net/gh/muboxgithub/MKF_tenant_repo@main/test_khalid_site.user.js
