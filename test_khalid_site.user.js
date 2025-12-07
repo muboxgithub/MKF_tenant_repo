@@ -3,8 +3,8 @@
 // @version      2025.12.25
 // @description  Test script – shows big green message on your site
 // @match        https://khalid-mkfstock.com/*
-// @updateURL    https://cdn.jsdelivr.net/gh/ecxTrader2025/ahmed_ecx_private_scripts@main/test_khalid_site.user.js
-// @downloadURL  https://cdn.jsdelivr.net/gh/ecxTrader2025/ahmed_ecx_private_scripts@main/test_khalid_site.user.js
+// @updateURL    https://cdn.jsdelivr.net/gh/muboxgithub/MKF_tenant_repo@main/test_khalid_site.user.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/muboxgithub/MKF_tenant_repo@main/test_khalid_site.user.js
 // @grant        none
 // @run-at       document-body
 // ==/UserScript==
